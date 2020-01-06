@@ -1,38 +1,43 @@
 ---
 layout: page
-title: Best Cryptocurrency Faucets
+title: Melhores Torneiras de Criptomoeda
 comments: false
-img: https://www.staleblock.com/assets/images/all-faucets.com-thumb.png
-alt: Cryptocurrency faucets are reward systems in a form of a website or an app that dispense free coins.
-desc: If you're new to crypto faucets this site is for you. Learn how to maximize the value of your time and effort while claiming from free bitcoin faucet sites.
-URL: https://www.staleblock.com/index.html
+img: https://pt.all-faucets.com/assets/images/all-faucets.com-thumb.png
+alt: As torneiras de criptomoeda são sistemas de recompensa na forma de um site ou aplicativo que dispensa moedas gratuitas.
+desc: Se você é novo em torneiras de criptografia, este site é para você. Aprenda a maximizar o valor do seu tempo e esforço enquanto reclama em sites de torneiras de bitcoin gratuitas.
+URL: https://pt.all-faucets.com/index.html
 ---
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
 
-If you're new to crypto faucets this site is for you. We list bitcoin and other digital currency faucets that are verified for their value and reputation. Usually people start trying-out faucets out of curiosity, or as a hobby, but with some knowledge and consistency such hobby can offer a good income. Our goal is to share the knowledge and to enable you to earn digital currency in the way that suits your interests and your life-style.
+Se você é novo em torneiras de criptografia, este site é para você. Listamos bitcoin e outras torneiras de moeda digital que são verificadas por seu valor e reputação. Geralmente, as pessoas começam a experimentar torneiras por curiosidade ou por hobby, mas com algum conhecimento e consistência, esse hobby pode oferecer uma boa renda. Nosso objetivo é compartilhar o conhecimento e permitir que você ganhe moeda digital da maneira que atenda aos seus interesses e seu estilo de vida.
 
-Continue reading: <a href="https://www.staleblock.com/daily/2019/12/12/index.html">Getting Started with Bitcoin Faucets</a>.
+Continue lendo: <a href="https://pt.all-faucets.com/daily/2019/12/12/index.html">Introdução às Torneiras Bitcoin</a>.
 
 ---
-#### 2019's Favorite Faucets
+#### 2019 em resumo
 
-A lot had changed since we first published this website. One, the price of the Bitcoin went up from circa 3,500 USD to over 10,000 USD occasionally reaching up to 12 or 13 thousands of US dollars. Such an increase in value had put many of the faucet websites out of business, as they could not afford giving away the promised rewards. Many have gone offline without distributing the amounts in your wallets, thus simply stealing your money. These are the risks that you need to be aware of and accept when investing your time or your money in cryptocurrency related services.
+O ano de 2019 teve um efeito devastador nas torneiras de criptomoeda. Centenas de sites de torneiras apareceram na Internet, quando o ano começou com o preço do bitcoin na faixa de 3.500 USD. Então, com um preço do BTC chegando a mais de 10.000 USD, chegando ocasionalmente a 12 ou 13 milhares de dólares, a maioria dos sites fechou ou tornou suas interfaces inutilizáveis (sobrecarregando cliques e anúncios).
 
-Still, the following faucets sites remain loyal to their members and continue dispensing free satoshi:
+Um aumento no valor de criptografia que vimos em meados de 2019 colocou muitos sites da torneira fora dos negócios, pois eles não podiam dar ao luxo de dar as recompensas prometidas. Muitos ficaram offline sem distribuir os valores em suas carteiras, simplesmente roubando seu dinheiro ganho. Esses são os riscos que você precisa conhecer e aceitar ao investir seu tempo em serviços relacionados a torneiras.
 
-- <a href="http://bit.ly/www-adbtc" target="_blank">adBTC</a>
-- <a href="http://bit.ly/www-btcfox" target="_blank">BtcFox</a>
-- <a href="http://bit.ly/www-btcpop" target="_blank">BTCPop</a>
-- <a href="http://bit.ly/www-cointiply" target="_blank">Cointiply</a>
-- <a href="http://bit.ly/www-cryptofarmer" target="_blank">Crypto Farmer</a>
-- <a href="http://bit.ly/www-cryptomininggame" target="_blank">Crypto Mining Game</a>
-- <a href="http://bit.ly/www-febbit" target="_blank">Febbit</a>
-- <a href="http://bit.ly/www-firefaucet" target="_blank">Fire Faucet</a>
-- <a href="http://bit.ly/www-freebitcoin" target="_blank">FreeBitco.in</a>
-- <a href="http://bit.ly/www-free-dogecoin" target="_blank">Free-Dogecoin</a>
-- <a href="http://bit.ly/www-rollercoin" target="_blank">RollerCoin</a>
+---
+#### Torneiras de criptografia que ainda funcionam em 2020
 
-What is your experience with crypto faucets? Have you tried any of them? Do you have a favorite site?
+Recomendamos os 11 sites de torneiras a seguir. Eles permanecem leais a seus membros e continuam a distribuir moedas gratuitas:
+
+1. <a href="http://bit.ly/www-adbtc" target="_blank">adBTC</a> - Paid 2 Site de surf
+2. <a href="http://bit.ly/www-btcfox" target="_blank">BtcFox</a> - Uma torneira horária com interesse
+3. <a href="http://bit.ly/www-btcpop" target="_blank">BTCPop</a> - Reivindique a cada 30 minutos, Altcoins principalmente, apostando
+4. <a href="http://bit.ly/www-cointiply" target="_blank">Cointiply</a> - Uma torneira horária com interesse
+5. <a href="http://bit.ly/www-cryptofarmer" target="_blank">Crypto Farmer</a> - Jogo de torneira de criptografia
+6. <a href="http://bit.ly/www-cryptomininggame" target="_blank">Crypto Mining Game</a> - Jogo de torneira de criptografia
+7. <a href="http://bit.ly/www-febbit" target="_blank">Febbit</a> - Jogo de torneira de criptografia
+8. <a href="http://bit.ly/www-firefaucet" target="_blank">Fire Faucet</a> - Um autofaucet
+9. <a href="http://bit.ly/www-freebitcoin" target="_blank">FreeBitco.in</a> - Uma torneira horária com interesse
+10. <a href="http://bit.ly/www-free-dogecoin" target="_blank">Free-Dogecoin</a> - Uma torneira horária com interesse
+11. <a href="http://bit.ly/www-rollercoin" target="_blank">RollerCoin</a> - Jogo de torneira de criptografia
+
+Qual é a sua experiência com torneiras de criptografia? Você já experimentou algum deles? Você tem um site favorito?
 
 <div id="commento"></div>
 <script src="https://cdn.commento.io/js/commento.js"></script>
